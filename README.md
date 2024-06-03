@@ -25,4 +25,4 @@ chmod +x install.sh
 
 # Preview
 
-![alt text](https://github.com/powersharp2exe/test/blob/main/img/screenshot.png)
+![alt text](https://github.com/d1mov/powersharp2exe/blob/main/img/screenshot.png)
